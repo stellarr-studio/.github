@@ -34,7 +34,7 @@ Written in Rust on DirectX 12, and built entirely with Moon AI. Its new memory l
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/kelvaroq-highlights-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/kelvaroq-highlights-light.svg">
-  <img src="assets/kelvaroq-highlights-light.svg" alt="Kelvaroq unified memory, in testing: 100% of the game's graphics memory shared with the GPU, 97.4% of GPU memory views served directly, 64 million lookups with no copy in one session, identical output on 4,418 recorded GPU submissions, 21 times less memory bookkeeping per frame, no memory left behind after closing.">
+  <img src="assets/kelvaroq-highlights-light.svg" alt="Kelvaroq unified memory, in testing: 100% of the game's graphics memory shared with the GPU, 97.4% of GPU memory views served directly, 64 million lookups with no copy in one session, 121 million descriptor rows checked against real gameplay with zero errors, 300 times less memory bookkeeping per heavy frame, no memory left behind after closing.">
 </picture>
 
 <br>
